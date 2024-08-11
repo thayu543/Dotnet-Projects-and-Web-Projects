@@ -11,7 +11,7 @@ namespace Employee_Management_Application_using_C_.NET
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Salary());
+            Application.Run(new Form1());
         }
     }
 }
